@@ -14,6 +14,10 @@ page 62010 "D4P BC Setup"
     {
         area(Content)
         {
+
+
+
+
             group(General)
             {
                 Caption = 'General Settings';
